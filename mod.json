@@ -1,0 +1,10 @@
+{
+"displayName": "Java Mod Template",
+"name": "example-java-mod",
+"author": "You",
+"main": "example.ExampleJavaMod",
+"description": "A Mindustry Java mod template.",
+"version": 0.1,
+"minGameVersion": 136,
+"java": true
+}
