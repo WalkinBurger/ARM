@@ -8,4 +8,7 @@ public class testNewItem {
 
     public static Block iHateMyLife;
 
+    public static void load() {
+
+    };
 }; 
