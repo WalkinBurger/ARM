@@ -8,5 +8,6 @@ public class armMain extends Mod{
 
     @Override
     public void loadContent(){
+        testNewItem.load();
     }
 }
