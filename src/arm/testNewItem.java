@@ -9,6 +9,9 @@ public class testNewItem {
     public static Block iHateMyLife;
 
     public static void load() {
-
+        iHateMyLife = new Block("iHateMyLife") {{
+            health = 2;
+            size = 1;
+        }};
     };
 }; 
