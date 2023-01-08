@@ -8,11 +8,4 @@ public class testNewItem {
 
     public static Block iHateMyLife;
 
-    public static void load() {
-        iHateMyLife = new Block("iHateMyLife") {{
-            requirements(Category.defense, ItemStack.with(Items.copper, 1), true);
-            health = 2;
-            size = 1;
-        }};
-    };
 }; 
