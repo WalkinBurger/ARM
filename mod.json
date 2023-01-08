@@ -2,7 +2,6 @@
 "displayName": "ARM",
 "name": "ARM",
 "author": "WalkinBurger",
-"main": "example.ExampleJavaMod",
 "description": "idk",
 "version": 0.1,
 "minGameVersion": 136
