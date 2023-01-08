@@ -2,11 +2,12 @@ package arm;
 
 import mindustry.mod.Mod;
 
-public class why extends Mod{
-    public why(){
+public class armMain extends Mod{
+    public armMain(){
     }
 
     @Override
     public void loadContent(){
+        testNewItem.load();
     }
 }
