@@ -1,4 +1,4 @@
-package arm;
+package arm.content;
 
 import mindustry.content.Items;
 import mindustry.type.Category;
