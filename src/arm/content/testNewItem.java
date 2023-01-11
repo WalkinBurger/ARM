@@ -15,5 +15,5 @@ public class testNewItem {
             health = 2;
             size = 1;
         }};
-    };
+    }
 }; 
